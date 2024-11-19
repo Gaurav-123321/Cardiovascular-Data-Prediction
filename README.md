@@ -97,6 +97,9 @@ Potential enhancements:
 - Required libraries: `tidyverse`, `caret`, `randomForest`, `e1071`, `neuralnet`, etc.
 
 ### Steps:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/repository.git
+1. Install R and RStudio from CRAN.
+2. Open RStudio after successful installation and then download all the necessary packages using 'install.packages("name of package you wish to install").
+3. Load the necessary packages using library().
+4. Load the dataset using read.csv() (as it is a csv file format) and then you can view the data using View().
+5. Simply run the code line by line for better understanding.
+   
